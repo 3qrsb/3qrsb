@@ -1,5 +1,9 @@
-# 💫 About Me:
-🌱 I’m currently learning Django, Redux, React, Vue<br>
+<h1 align="center">Hi 👋, I'm Yersultan</h1>
+<h3 align="center">A passionate backend developer</h3>
+
+- 🌱 I’m currently learning **Django, Vue, React, Redux**
+
+- 📫 How to reach me **eabuov4@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3qrsb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24360347/3qrsb) 
@@ -12,3 +16,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=3qrsb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Django, Redux, React, Vue**
+- 🌱 I’m currently learning **Django, Redux, React**
 - 📫 How to reach me **eabuov4@gmail.com**
 
 ## 🌐 Socials:

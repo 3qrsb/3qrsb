@@ -1,6 +1,8 @@
 # 💫 About Me:
 - 🌱 I’m currently learning **Django, Redux, React**
 - 📫 How to reach me **eabuov4@gmail.com**
+  
+<a href="https://www.codewars.com/users/sselluos"><br/><img src="https://www.codewars.com/users/sselluos/badges/large"></a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3qrsb) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24360347/3qrsb) 

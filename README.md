@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 I’m currently learning **Django, Redux, React**
+- 🌱 I’m currently learning **Django, Next.js, Nest.js**
 - 📫 How to reach me **eabuov4@gmail.com**
   
 <a href="https://www.codewars.com/users/sselluos"><br/><img src="https://www.codewars.com/users/sselluos/badges/large"></a>

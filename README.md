@@ -10,8 +10,28 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/y3rsss)
 
 ## 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" height="30" width="30"/> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="30" width="30"/> 
+<img src="https://cdn.simpleicons.org/python/3670A0" alt="Python" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" alt="NodeJS" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/npm/CB3837" alt="NPM" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/yarn/2C8EBB" alt="Yarn" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/express/000000" alt="Express.js" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/nestjs/E0234E" alt="NestJS" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/django/092E20" alt="Django" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/fastapi/009688" alt="FastAPI" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/redux/764ABC" alt="Redux" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" alt="Vue.js" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="Postgres" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/heroku/430098" alt="Heroku" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" height="30" width="30"/>
+<img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="30" width="30"/>
+
 ## 📊 GitHub Stats:
 [![](https://github-readme-stats.vercel.app/api?username=3qrsb&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=3qrsb&theme=nightowl&hide_border=false)<br/>

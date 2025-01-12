@@ -3,11 +3,6 @@
 - 📫 How to reach me **eabuov4@gmail.com**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=3qrsb&color=blue&style=flat)
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/3qrsb) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/24360347/3qrsb) 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/y3rsss)
-[![Codewars](https://www.codewars.com/users/sselluos/badges/micro)](https://www.codewars.com/users/sselluos)
 
 ## 💻 Tech Stack:
 <img src="https://cdn.simpleicons.org/typescript/007ACC" alt="TypeScript" height="30" width="30"/> <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" height="30" width="30"/> 

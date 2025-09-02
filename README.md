@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning **Nest.js, Prisma**
 - 📫 How to reach me **eabuov4@gmail.com**
 
-![Visitor Count](https://komarev.com/ghpvc/?username=3qrsb&color=blue&style=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=y3rsss&color=blue&style=flat)
 
 ## 💻 Tech Stack:
 <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" height="30" width="30"/> <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" height="30" width="30"/>
@@ -31,7 +31,7 @@
 <img src="https://cdn.simpleicons.org/cloudflare/F38020" alt="Cloudflare" height="30" width="30"/>
 
 ## 📊 GitHub Stats:
-[![](https://github-readme-stats.vercel.app/api?username=3qrsb&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=3qrsb&theme=nightowl&hide_border=false)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=3qrsb&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=y3rsss&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=y3rsss&theme=nightowl&hide_border=false)<br/>
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=y3rsss&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
